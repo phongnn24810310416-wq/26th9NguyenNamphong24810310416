@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\formmainmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\formmainmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\formmainmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\formmainmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|c:\\users\\anhva\\downloads\\2609\\bai4.5\\bai4.5\\formmainmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D6459-3903-4DA3-8B22-546F0B377C0E}|bai4.5\\bai4.5.csproj|solutionrelative:bai4.5\\formmainmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\Program.cs",
+              "RelativeDocumentMoniker": "bai4.5\\Program.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\Program.cs",
+              "RelativeToolTip": "bai4.5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:29:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRegister.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormRegister.Designer.cs",
+              "RelativeDocumentMoniker": "bai4.5\\FormRegister.Designer.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormRegister.Designer.cs*",
+              "RelativeToolTip": "bai4.5\\FormRegister.Designer.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:27:43.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormRegister.cs",
+              "RelativeDocumentMoniker": "bai4.5\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormRegister.cs",
+              "RelativeToolTip": "bai4.5\\FormRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:27:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormRegister.cs",
+              "RelativeDocumentMoniker": "bai4.5\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormRegister.cs [Design]",
+              "RelativeToolTip": "bai4.5\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:27:22.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMainMdi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormMainMdi.Designer.cs",
+              "RelativeDocumentMoniker": "bai4.5\\FormMainMdi.Designer.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormMainMdi.Designer.cs",
+              "RelativeToolTip": "bai4.5\\FormMainMdi.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:26:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMainMdi.cs",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormMainMdi.cs",
+              "RelativeDocumentMoniker": "bai4.5\\FormMainMdi.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormMainMdi.cs",
+              "RelativeToolTip": "bai4.5\\FormMainMdi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:25:50.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMainMdi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormMainMdi.cs",
+              "RelativeDocumentMoniker": "bai4.5\\FormMainMdi.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\2609\\bai4.5\\bai4.5\\FormMainMdi.cs [Design]",
+              "RelativeToolTip": "bai4.5\\FormMainMdi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:25:48.017Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
